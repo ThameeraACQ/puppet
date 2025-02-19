@@ -3,8 +3,6 @@ require 'puppet/version'
 # Also see the new Vendor support - towards the end
 #
 require 'facter'
-require 'file_test'
-require 'file'
 require 'old_http_request'
 require 'puppet/error'
 require 'puppet/util'
